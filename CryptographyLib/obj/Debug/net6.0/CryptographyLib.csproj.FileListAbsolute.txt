@@ -1,0 +1,12 @@
+C:\OneDrive\Robertson\Visual Studio Code\Chapter10\CryptographyLib\bin\Debug\net6.0\CryptographyLib.deps.json
+C:\OneDrive\Robertson\Visual Studio Code\Chapter10\CryptographyLib\bin\Debug\net6.0\CryptographyLib.dll
+C:\OneDrive\Robertson\Visual Studio Code\Chapter10\CryptographyLib\bin\Debug\net6.0\CryptographyLib.pdb
+C:\OneDrive\Robertson\Visual Studio Code\Chapter10\CryptographyLib\obj\Debug\net6.0\CryptographyLib.csproj.AssemblyReference.cache
+C:\OneDrive\Robertson\Visual Studio Code\Chapter10\CryptographyLib\obj\Debug\net6.0\CryptographyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\OneDrive\Robertson\Visual Studio Code\Chapter10\CryptographyLib\obj\Debug\net6.0\CryptographyLib.AssemblyInfoInputs.cache
+C:\OneDrive\Robertson\Visual Studio Code\Chapter10\CryptographyLib\obj\Debug\net6.0\CryptographyLib.AssemblyInfo.cs
+C:\OneDrive\Robertson\Visual Studio Code\Chapter10\CryptographyLib\obj\Debug\net6.0\CryptographyLib.csproj.CoreCompileInputs.cache
+C:\OneDrive\Robertson\Visual Studio Code\Chapter10\CryptographyLib\obj\Debug\net6.0\CryptographyLib.dll
+C:\OneDrive\Robertson\Visual Studio Code\Chapter10\CryptographyLib\obj\Debug\net6.0\refint\CryptographyLib.dll
+C:\OneDrive\Robertson\Visual Studio Code\Chapter10\CryptographyLib\obj\Debug\net6.0\CryptographyLib.pdb
+C:\OneDrive\Robertson\Visual Studio Code\Chapter10\CryptographyLib\obj\Debug\net6.0\ref\CryptographyLib.dll
